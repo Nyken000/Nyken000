@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Javier
 
-<!--
-**Nyken000/Nyken000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* Estudiante de Ingenieria en informatica.
+* Actualmente procrastinando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Javascript, HTML, CSS, Js, Ts, React, Sql, NoSql
+
+## Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nyken000&theme=gotham)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyken000&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyken000&langs_count=8&theme=tokyonight)
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-manriquez-ba7baa342/)
+
+
