@@ -6,7 +6,7 @@
 * Actualmente procrastinando
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Js, Ts, React, Sql, NoSql
+Javascript, HTML, CSS, Typescript, React, Sql, NoSql
 
 ## Github Stats
 
